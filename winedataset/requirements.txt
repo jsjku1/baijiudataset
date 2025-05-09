@@ -1,0 +1,7 @@
+drissionpage
+pandas
+pyquery
+requests
+retrying
+paddlepaddle==3.0.0rc1 -i https://www.paddlepaddle.org.cn/packages/stable/cpu/
+paddleocr
